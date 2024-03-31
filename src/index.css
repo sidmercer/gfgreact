@@ -1,0 +1,26 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h4{
+  color: rgb(251, 253, 255);
+}
+.card{
+  background-color: rgb(95, 20, 216);
+  display: flex;
+  justify-content: center;
+  height: 300px;
+  width:55%;
+  margin-left: 20%;
+}
+.red{
+  background-color: red;
+}
